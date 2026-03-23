@@ -1,0 +1,5 @@
+import math
+
+def funk320Kalegin(x, y):
+    
+    return math.sqrt(x**2 + y**2)
